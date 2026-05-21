@@ -2,7 +2,7 @@
 
 A full-stack degree planning application for Midwestern State University Texas Computer Science students. The C++ backend serves a course catalog and audits a student's progress against the CS degree plan. A lightweight HTML/JavaScript frontend (no framework) provides four views: a dashboard summarizing degree progress, a personal schedule view with what-if grade projections, a course registration page with real-time conflict detection, and an alerts page surfacing prerequisite violations and other issues.
 
-Built as a team project for CMPS 3013 Software Engineering, Spring 2026.
+Built as a team project for CMPS 4113 Software Engineering, Spring 2026.
 
 ---
 
@@ -103,7 +103,7 @@ UniTrack/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/UniTrack.git
+   git clone https://github.com/Unexpected-Pencil/UniTrack.git
    ```
 2. Open `UniTrack.sln` in Visual Studio
 3. Set the **Working Directory** (one-time setup):
